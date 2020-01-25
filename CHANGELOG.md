@@ -1,3 +1,8 @@
+
+# Version 1.2.0 built on 2020-02-xx
+
+ - Add multithreaded decoding support
+
 # Version 1.1.1 built on 2020-04-12
 
  - Refactor code
